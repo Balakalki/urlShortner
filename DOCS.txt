@@ -1,0 +1,6 @@
+-> We have to export the router individually not as objects (module.exports = routerName) not like (module.exports = {routerName}).
+
+-> install and import dotenv package to use .env file (require('dotenv').config this should be added in index.js or app.js).
+
+-> MongoDB connection string for local system is mongodb://localhost:27017/database_name or mongodb://127.0.0.1:27017/database_name.
+
